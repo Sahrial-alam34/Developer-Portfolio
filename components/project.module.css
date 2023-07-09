@@ -1,0 +1,25 @@
+.title{
+    text-align: center;
+    margin-top: 50px;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 35px;
+  }
+  .text_container {
+    width: 300px;
+    height: 250px;
+    padding: 20px;
+  }
+  .btn {
+    background: #b8e0e5;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 5px;
+  }
+  .text_container > a {
+    text-decoration: none;
+  }

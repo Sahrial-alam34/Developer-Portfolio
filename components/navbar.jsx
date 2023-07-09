@@ -18,9 +18,9 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <div className={styles.second_container}>
-                   <Link href=""> <Image className={styles.socialImg} src={InstrLogo} alt='Instagram Logo'></Image></Link>
-                   <Link href=""> <Image className={styles.socialImg} src={FaceBookLogo} alt='Facebook Logo'></Image></Link>
-                   <Link href=""> <Image className={styles.socialImg} src={GithubLogo} alt='Github Logo'></Image></Link>
+                   <Link href="https://www.instagram.com/sahriar_sunny_/"> <Image className={styles.socialImg} src={InstrLogo} alt='Instagram Logo'></Image></Link>
+                   <Link href="https://www.facebook.com/sharialalam.sunny/"> <Image className={styles.socialImg} src={FaceBookLogo} alt='Facebook Logo'></Image></Link>
+                   <Link href="https://github.com/Sahrial-alam34"> <Image className={styles.socialImg} src={GithubLogo} alt='Github Logo'></Image></Link>
                 </div>
             </div>
         </div>
